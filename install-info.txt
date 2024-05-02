@@ -31,4 +31,9 @@ HUGO_ENV = "production"
 
 
 Then copy the "layout, static and data" folder form the porntar.monster project
-Then copy the .github folder from the previous project (hugo actions yaml)
+
+Then copy the .github folder from the previous project for (hugo actions yaml)
+and in gihub setting->pages activeted source from github actions.
+
+then get the hugo.yaml file from github and paste it to local hugo.yaml file and pushed
+
