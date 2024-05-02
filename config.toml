@@ -48,35 +48,35 @@ Paginate = 6
 #nav main menu
 
 [[menu.main]]
-    name = "Porn Stars"
-    url = "/PornStars/"
+    name = "Mobile"
+    url = "/mobile/"
     weight = 1	
 
 [[menu.main]]
-    name = "Top 10"
-    url = "/Top10/"
+    name = "Drivers"
+    url = "/drivers/"
     weight = 2
 
 [[menu.main]]
-    name = "Keywords"
-    url = "/PornKeywords/"
+    name = "Games"
+    url = "/games/"
     weight = 3
 	
 [[menu.main]]
-    name = "Indian"
-    url = "/Indian/"
+    name = "Dev Tools"
+    url = "/developertools/"
     weight = 4
 
 [[menu.main]]
-    name = "Videos"
-    url = "/Videos/"
+    name = "Antivirus"
+    url = "/antivirus/"
     weight = 5
 
 
 
 [[menu.main]]
-    name = "Photos"
-    url = "/Photos/"
+    name = "Audio Video"
+    url = "/audiovideo/"
     weight = 6
 
 
@@ -85,8 +85,8 @@ Paginate = 6
 #menu for footer
 
 [[menu.footer]]
-    name = "Porn Stars"
-    url = "/PornStars/"
+    name = "How To's"
+    url = "/howto/"
     weight = 1	
 
 [[menu.footer]]
@@ -95,13 +95,13 @@ Paginate = 6
     weight = 2
 
 [[menu.footer]]
-    name = "Keywords"
-    url = "/PornKeywords/"
+    name = "Scripts"
+    url = "/script/"
     weight = 3
 	
 [[menu.footer]]
-    name = "Indian"
-    url = "/Indian/"
+    name = "wordpress Plugins"
+    url = "/wordpress/"
     weight = 4
 
 [[menu.footer]]
@@ -112,6 +112,6 @@ Paginate = 6
 
 
 [[menu.footer]]
-    name = "Photos"
-    url = "/Photos/"
+    name = "Snippets"
+    url = "/snippets/"
     weight = 6
