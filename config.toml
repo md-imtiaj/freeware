@@ -1,0 +1,9 @@
+baseURL = 'https://md-imtiaj.github.io//'
+languageCode = 'en-us'
+title = 'Freeware downloads'
+theme = 'lightbi-hugo' 
+
+
+[permalinks]
+  posts = '/:slug/'
+  tags = '/:slug/' 
