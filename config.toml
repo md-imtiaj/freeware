@@ -1,6 +1,6 @@
 baseURL = 'https://md-imtiaj.github.io/freeware/'
 languageCode = 'en-us'
-title = 'Freeware Downloads'
+title = 'Freeware Files'
 
 
 theme = 'lightbi-hugo'
@@ -20,7 +20,7 @@ Paginate = 6
   
 [params]
     showRelatedPosts = true #for lightbi related posts
-    description = "Download freeware"
+    description = "Free Software Downloads and reviews."
     author = "Md Imtiaj"
     selfHosted = true
 	mainSections = ["post","posts"]
@@ -48,36 +48,34 @@ Paginate = 6
 #nav main menu
 
 [[menu.main]]
-    name = "Mobile"
-    url = "/mobile/"
+    name = "HOW-TO's"
+    url = "/howto/"
     weight = 1	
 
 [[menu.main]]
-    name = "Drivers"
-    url = "/drivers/"
+    name = "Games"
+    url = "/Free-Games/"
     weight = 2
 
 [[menu.main]]
-    name = "Games"
-    url = "/games/"
+    name = "Essential"
+    url = "/Essential-Free-Software/"
     weight = 3
-	
-[[menu.main]]
-    name = "Dev Tools"
-    url = "/developertools/"
-    weight = 4
+
 
 [[menu.main]]
-    name = "Antivirus"
-    url = "/antivirus/"
+    name = "Top 5"
+    url = "/Top-5-Software/"
+    weight = 4
+
+	
+[[menu.main]]
+    name = "Top 100"
+    url = "/Top-100-Free-Downloads/"
     weight = 5
 
 
 
-[[menu.main]]
-    name = "Audio Video"
-    url = "/audiovideo/"
-    weight = 6
 
 
 
@@ -85,33 +83,92 @@ Paginate = 6
 #menu for footer
 
 [[menu.footer]]
-    name = "How To's"
-    url = "/howto/"
-    weight = 1	
+    name = "Antivirus"
+    url = "/Antivirus/"
+    weight = 1
 
 [[menu.footer]]
-    name = "Top 10"
-    url = "/Top10/"
+    name = "Audio Video"
+    url = "/Audio-Video/"
     weight = 2
-
-[[menu.footer]]
-    name = "Scripts"
-    url = "/script/"
-    weight = 3
 	
 [[menu.footer]]
-    name = "wordpress Plugins"
-    url = "/wordpress/"
+    name = "Business Organize"
+    url = "/Business-Organize/"
+    weight = 3
+
+[[menu.footer]]
+    name = "Desktop Enhancements"
+    url = "/Desktop-Enhancements-Utilities/"
     weight = 4
 
 [[menu.footer]]
-    name = "Videos"
-    url = "/Videos/"
+    name = "Developer Tools"
+    url = "/Developer-Tools/"
     weight = 5
+	
+[[menu.footer]]
+    name = "Drivers"
+    url = "/Drivers/"
+    weight = 6	
 
+[[menu.footer]]
+    name = "Essential Sofwares"
+    url = "/Essential-Free-Software/"
+    weight = 7
+
+[[menu.footer]]
+    name = "Games"
+    url = "/Free-Games/"
+    weight = 8
+	
+[[menu.footer]]
+    name = "Graphics Design"
+    url = "/Graphics/"
+    weight = 9
+
+[[menu.footer]]
+    name = "Home Education"
+    url = "/Home-Education/"
+    weight = 10
 
 
 [[menu.footer]]
-    name = "Snippets"
-    url = "/snippets/"
-    weight = 6
+    name = "Internet"
+    url = "/Internet/"
+    weight = 11
+	
+[[menu.footer]]
+    name = "Mobile Smartphone Tools"
+    url = "/Mobile-Smartphone-Tools/"
+    weight = 12
+	
+[[menu.footer]]
+    name = "Network"
+    url = "/Network-Tools/"
+    weight = 13
+	
+[[menu.footer]]
+    name = "Network"
+    url = "/Network-Tools/"
+    weight = 14
+	
+[[menu.footer]]
+    name = "Programming"
+    url = "/Programming/"
+    weight = 15
+	
+[[menu.footer]]
+    name = "Screensavers"
+    url = "/Screensavers/"
+    weight = 16
+	
+[[menu.footer]]
+    name = "Security Privacy"
+    url = "/Security-Privacy/"
+    weight = 17
+	
+[[menu.footer]]
+    name = "Utilities"
+    url = "/Utilities/"
+    weight = 18
