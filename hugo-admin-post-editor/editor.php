@@ -70,8 +70,10 @@
     <textarea  id="post-description" placeholder="Excerpt: meta tag description, Important for seo!!!" rows="2" required><?php echo $description; ?></textarea>
 	<div >Characters left: <span id="char-counter" class="char-counter">170</span></div><br/>
 
-    <label for="post-tags">Tags (comma-separated):<red></label>
-    <input type="text" id="post-tags" size="122px" value="<?php echo $tags; ?>" placeholder="At least add main tags i.e pornstar, video, photos, indian" required>
+    <!--label for="post-tags">Tags (comma-separated):<red></label>
+    <input type="text" id="post-tags" size="122px" value="<?php echo $tags; ?>" placeholder="At least add main tags i.e pornstar, video, photos, indian" required-->
+	
+	<?php require_once('tag-suggestion-freewarefiles.com.php'); ?>
 	
 	
 	<label for="post-video-thumbnail">Video Poster:</label>

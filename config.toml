@@ -54,24 +54,24 @@ Paginate = 6
 
 [[menu.main]]
     name = "Games"
-    url = "/Free-Games/"
+    url = "/free-games/"
     weight = 2
 
 [[menu.main]]
     name = "Essential"
-    url = "/Essential-Free-Software/"
+    url = "/essential-free-software/"
     weight = 3
 
 
 [[menu.main]]
     name = "Top 5"
-    url = "/Top-5-Software/"
+    url = "/top-5-software/"
     weight = 4
 
 	
 [[menu.main]]
     name = "Top 100"
-    url = "/Top-100-Free-Downloads/"
+    url = "/top-100-free-downloads/"
     weight = 5
 
 
@@ -84,42 +84,42 @@ Paginate = 6
 
 [[menu.footer]]
     name = "Antivirus"
-    url = "/Antivirus/"
+    url = "/antivirus/"
     weight = 1
 
 [[menu.footer]]
     name = "Audio Video"
-    url = "/Audio-Video/"
+    url = "/audio-video/"
     weight = 2
 	
 [[menu.footer]]
     name = "Business Organize"
-    url = "/Business-Organize/"
+    url = "/business-organize/"
     weight = 3
 
 [[menu.footer]]
     name = "Desktop Enhancements"
-    url = "/Desktop-Enhancements-Utilities/"
+    url = "/desktop-enhancements-utilities/"
     weight = 4
 
 [[menu.footer]]
     name = "Developer Tools"
-    url = "/Developer-Tools/"
+    url = "/developer-tools/"
     weight = 5
 	
 [[menu.footer]]
     name = "Drivers"
-    url = "/Drivers/"
+    url = "/drivers/"
     weight = 6	
 
 [[menu.footer]]
     name = "Essential Sofwares"
-    url = "/Essential-Free-Software/"
+    url = "/essential-free-software/"
     weight = 7
 
 [[menu.footer]]
     name = "Games"
-    url = "/Free-Games/"
+    url = "/free-games/"
     weight = 8
 	
 [[menu.footer]]
@@ -129,46 +129,42 @@ Paginate = 6
 
 [[menu.footer]]
     name = "Home Education"
-    url = "/Home-Education/"
+    url = "/home-education/"
     weight = 10
 
 
 [[menu.footer]]
     name = "Internet"
-    url = "/Internet/"
+    url = "/internet/"
     weight = 11
 	
 [[menu.footer]]
     name = "Mobile Smartphone Tools"
-    url = "/Mobile-Smartphone-Tools/"
+    url = "/mobile-smartphone-tools/"
     weight = 12
 	
 [[menu.footer]]
     name = "Network"
-    url = "/Network-Tools/"
+    url = "/network-tools/"
     weight = 13
 	
-[[menu.footer]]
-    name = "Network"
-    url = "/Network-Tools/"
-    weight = 14
 	
 [[menu.footer]]
     name = "Programming"
-    url = "/Programming/"
-    weight = 15
+    url = "/programming/"
+    weight = 14
 	
 [[menu.footer]]
     name = "Screensavers"
-    url = "/Screensavers/"
-    weight = 16
+    url = "/screensavers/"
+    weight = 15
 	
 [[menu.footer]]
     name = "Security Privacy"
-    url = "/Security-Privacy/"
-    weight = 17
+    url = "/security-privacy/"
+    weight = 16
 	
 [[menu.footer]]
     name = "Utilities"
-    url = "/Utilities/"
-    weight = 18
+    url = "/utilities/"
+    weight = 17
