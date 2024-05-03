@@ -124,7 +124,7 @@ Paginate = 6
 	
 [[menu.footer]]
     name = "Graphics Design"
-    url = "/Graphics/"
+    url = "/graphics/"
     weight = 9
 
 [[menu.footer]]

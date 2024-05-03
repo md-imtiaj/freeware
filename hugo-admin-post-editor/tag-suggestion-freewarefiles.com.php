@@ -45,7 +45,7 @@
   // Predefined tags
   const tags = ['howto', 'free-games', 'essential-free-software', 'top-5-software', 'top-100-free-downloads',
                 'antivirus', 'audio-video', 'business-organize', 'desktop-enhancements-utilities', 'developer-tools',
-				'drivers', 'free-games', 'home-education', 'internet', 'mobile-smartphone-tools',
+				'drivers', 'free-games', 'home-education', 'graphics', 'internet', 'mobile-smartphone-tools',
 				
 				'network-tools', 'programming', 'screensavers', 'security-privacy', 'utilities'];
 
