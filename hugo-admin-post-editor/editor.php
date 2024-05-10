@@ -143,7 +143,7 @@
 
                        						
 						//load a blank post (New Post)
-						CKEDITOR.instances['post-body'].setData('<h1 class="mb-4">Post Title</h1><p class="lead">A brief excerpt or summary of your post goes here.</p><div class="row mt-4"><div classs="col-md-8"><h2>Image Title</h2><img src="<?php echo $adminSrcDir; ?>/assets/<?php echo $adminSrcDir; ?>-sample.jpg" alt="Image" class="img-fluid mb-3"><p class="text-muted">Image Label</p></div></div>');
+						CKEDITOR.instances['post-body'].setData('<div style="text-align: center;"><a class="btn btn-dark" href="https://md-imtiaj.github.io/freeware/">Download</a></div>');
                     });
             }
 
