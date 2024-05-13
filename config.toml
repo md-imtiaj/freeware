@@ -1,6 +1,6 @@
 baseURL = 'https://md-imtiaj.github.io/freeware/'
 languageCode = 'en-us'
-title = 'Freeware Files'
+title = 'Download Freeware'
 
 
 theme = 'lightbi-hugo'
