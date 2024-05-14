@@ -27,9 +27,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Site Title, Description, Author, and Favicon -->
 {{ if .IsHome }}
-<title>{{ $.Site.Title }}</title>
+<title>{{ .Site.Title }} {{ if .Paginator.PageNumber }} - Page {{ .Paginator.PageNumber }}{{ end }}</title>
+<meta name="description" content="{{ if .Paginator.PageNumber }}Page {{ .Paginator.PageNumber }} - {{ end }}{{ .Site.Params.description }}">
+
+
+<!--title>{{ $.Site.Title }}</title-->
 {{ if (isset $.Site.Params "description") }}
-<meta name="description" content="{{ $.Site.Params.description }}">
+<!--meta name="description" content="{{ $.Site.Params.description }}"-->
 {{ end }}
 {{- else }}
 {{- with ($.Scratch.Get "Title") }}
